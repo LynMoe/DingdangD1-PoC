@@ -9,7 +9,7 @@
 ## 依赖
 
 ```bash
-$ pip3 install bleak
+$ pip3 install bleak pillow
 ```
 
 ## Quickstart
